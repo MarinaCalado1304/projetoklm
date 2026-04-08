@@ -107,10 +107,7 @@ O sistema deverá garantir:
 ---
 
 ### Protótipo Inicial
-
-* Inserir link do Figma/Canva
-  **ou**
-* Inserir imagens das telas do aplicativo
+https://canva.link/14mexvuqmvhf65w
 
 ---
 
